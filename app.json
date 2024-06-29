@@ -1,0 +1,25 @@
+{
+      "expo": {
+            "name": "Workouts",
+            "slug": "gymclient",
+            "platforms": ["ios", "android", "web"],
+            "version": "1.0.0",
+            "orientation": "portrait",
+            "icon": "./assets/icon.png",
+            "splash": {
+                  "image": "./assets/splash.png",
+                  "resizeMode": "contain",
+                  "backgroundColor": "#dfe0d4"
+            },
+            "assetBundlePatterns": ["**/*"],
+            "ios": {
+                  "supportsTablet": true
+            },
+            "android": {
+                  "package": "com.anirudhapps.lcogymclient"
+            },
+            "updates": {
+                  "enabled": false
+            }
+      }
+}
