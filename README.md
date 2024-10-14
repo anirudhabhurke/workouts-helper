@@ -2,8 +2,7 @@
 My work for a mobile app challenge.
 
 ###### Video
-<img src="https://github.com/anirudhabhurke/gymclient/blob/master/assets/video.gif" width="256" />
-
+<img src="https://github.com/anirudhabhurke/workouts-helper/blob/master/assets/video.gif" width="256" />
 
 ###### How it works
 - When the user opens the app, it selects 5 exercises automatically in two modes, random mode and daywise mode, which the user can select. Exercises are fixed in daywise mode.
